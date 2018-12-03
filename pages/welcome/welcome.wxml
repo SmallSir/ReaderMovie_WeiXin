@@ -1,0 +1,8 @@
+<view class='container'>
+  <image class='user_avator' src="/images/avatar/1.png"></image>
+  <text class='user_name'>hello test</text>
+  <view class='moto-container'>
+    <text class='moto'>欢迎</text>
+  </view>
+</view>
+
